@@ -1,0 +1,4 @@
+BODY_PARTS:Head,Heart,Abdomen,Hand,Leg;
+REFERENCE_IMAGE_PATH:E:\Quest training\VC++\day6\RefImage;
+STORE_IMAGE_PATH:E:\Quest training\VC++\day6\StoreImage;
+DATABASE_PATH:E:\Quest training\VC++\day6\Database;
