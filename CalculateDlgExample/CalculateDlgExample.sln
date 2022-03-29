@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CalculateDlgExample", "CalculateDlgExample\CalculateDlgExample.vcxproj", "{B7433185-04D7-42E9-B0C6-F7382B2A4E10}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyDLL", "MyDLL\MyDLL.vcxproj", "{76197BB9-4882-475C-8D1D-B364D56B5125}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DynamicLinkingDLL", "DynamicLinkingDLL\DynamicLinkingDLL.vcxproj", "{B639F2FE-DCA0-4D9D-A355-C7948EB6E2EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7433185-04D7-42E9-B0C6-F7382B2A4E10}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B7433185-04D7-42E9-B0C6-F7382B2A4E10}.Debug|Win32.Build.0 = Debug|Win32
+		{B7433185-04D7-42E9-B0C6-F7382B2A4E10}.Release|Win32.ActiveCfg = Release|Win32
+		{B7433185-04D7-42E9-B0C6-F7382B2A4E10}.Release|Win32.Build.0 = Release|Win32
+		{76197BB9-4882-475C-8D1D-B364D56B5125}.Debug|Win32.ActiveCfg = Debug|Win32
+		{76197BB9-4882-475C-8D1D-B364D56B5125}.Debug|Win32.Build.0 = Debug|Win32
+		{76197BB9-4882-475C-8D1D-B364D56B5125}.Release|Win32.ActiveCfg = Release|Win32
+		{76197BB9-4882-475C-8D1D-B364D56B5125}.Release|Win32.Build.0 = Release|Win32
+		{B639F2FE-DCA0-4D9D-A355-C7948EB6E2EE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B639F2FE-DCA0-4D9D-A355-C7948EB6E2EE}.Debug|Win32.Build.0 = Debug|Win32
+		{B639F2FE-DCA0-4D9D-A355-C7948EB6E2EE}.Release|Win32.ActiveCfg = Release|Win32
+		{B639F2FE-DCA0-4D9D-A355-C7948EB6E2EE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
