@@ -1,0 +1,4 @@
+BODY_PARTS:Head,Heart,Abdomen,Hand,Leg;
+REFERENCE_IMAGE_PATH:F:\Work\Training Quest 2\MFCAssignment3\RefImage;
+STORE_IMAGE_PATH:F:\Work\Training Quest 2\MFCAssignment3\StoreImage;
+DATABASE_PATH:C:\Database;

@@ -1,0 +1,4 @@
+BODY_PARTS:Head,Heart,Abdomen,Hand,Leg;
+REFERENCE_IMAGE_PATH:C:\RefImage;
+STORE_IMAGE_PATH:C:\StoreImage;
+DATABASE_PATH:C:\Database;
