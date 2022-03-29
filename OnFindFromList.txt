@@ -1,0 +1,12 @@
+void CSecondDlg::OnFindFromLIst()
+{
+	POSITION pos = list.Find(_T("Tennessee"));
+	if (pos != NULL)
+	{
+		m_Edit.SetWindowTextW(_T("Item Found"));
+	}
+	else
+	{
+		m_Edit.SerWindowTextW(_T("No Such Item"));
+	}
+}
