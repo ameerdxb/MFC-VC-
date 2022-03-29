@@ -208,8 +208,6 @@ void CMyPage1::OnBnClickedRegister()
 			}
 
 		}
-		AfxGetMainWnd()->SendMessage(WM_USER_SECONDPAGE, (WPARAM)&std, 0);
-		UpdateData(FALSE);
 }
 
 

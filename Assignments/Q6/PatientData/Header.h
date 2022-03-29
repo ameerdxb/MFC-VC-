@@ -22,5 +22,3 @@ typedef struct PATIENT_INFO_t
 	CString m_Age;
 	STUDY_INFO_t STUDY;
 }PATIENT;
-
-#define WM_USER_SECONDPAGE	WM_USER + 0X0400

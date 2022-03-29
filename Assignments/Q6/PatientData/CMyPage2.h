@@ -1,5 +1,5 @@
 #pragma once
-#include "Header.h"
+
 
 // CMyPage2 dialog
 
@@ -20,11 +20,6 @@ protected:
 	virtual void DoDataExchange(CDataExchange* pDX);    // DDX/DDV support
 
 	DECLARE_MESSAGE_MAP()
-	afx_msg LRESULT OnAddToTree(WPARAM, LPARAM);
 public:
 	afx_msg void OnTvnSelchangedTree1(NMHDR* pNMHDR, LRESULT* pResult);
-	CTreeCtrl m_Tree;
-
-	CMap < CString, LPCTSTR, PATIENT, PATIENT& > myMap;
-	void InsertToTree();
 };
